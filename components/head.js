@@ -50,15 +50,15 @@ const Head = ({
       />
       <link
         rel="icon"
-        type="image/png"
+        type="image/x-icon"
         sizes="32x32"
-        href="/favicon/favicon-32x32.png"
+        href="/favicon/favicon.ico"
       />
       <link
         rel="icon"
-        type="image/png"
+        type="image/x-icon"
         sizes="16x16"
-        href="/favicon/favicon-16x16.png"
+        href="/favicon/favicon.ico"
       />
       <link rel="manifest" href="/favicon/site.webmanifest" />
       <link
